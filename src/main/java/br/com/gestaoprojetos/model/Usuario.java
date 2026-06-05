@@ -1,0 +1,1 @@
+package br.com.gestaoprojetos.model; public abstract class Usuario { public abstract String gerarRelatorio(); }

@@ -1,0 +1,1 @@
+package br.com.gestaoprojetos.model; public class Gerente extends Usuario { public String gerarRelatorio(){ return "Gerencial"; } }

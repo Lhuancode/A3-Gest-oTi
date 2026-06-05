@@ -1,0 +1,1 @@
+package br.com.gestaoprojetos.model; public class Tarefa {}
